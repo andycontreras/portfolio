@@ -1,0 +1,4 @@
+  const urlP = "https://preview.contentful.com";
+  const spaceId = "iyew3lkuir6k";
+  const token = "J527i1IVNkqcxu6Gr1y_lUSHZXEnywTkS8QBfX-B_SU";
+  const enviroment = "master";
